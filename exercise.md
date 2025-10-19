@@ -39,7 +39,7 @@ A good rule of thumb:
 
 **Forecasts (always uncertain).**  
 - The **WEF Future of Jobs 2025** projects ~**170 million jobs** created and ~**92 million displaced** globally by 2030 (a **net +78 million**), driven by tech, green transition, and demographics. Skills needs will shift toward AI/data, cybersecurity, and adaptability.[^wef2025]  
-- **McKinsey** modeling suggests ~**27–30% of hours** in Europe/US could be automated by 2030 (genAI accelerates this), implying millions of **occupational transitions** and a major **skills upgrade** agenda.{^mgi2024}
+- **McKinsey** modeling suggests ~**27–30% of hours** in Europe/US could be automated by 2030 (genAI accelerates this), implying millions of **occupational transitions** and a major **skills upgrade** agenda.[^mgi2024]
 
 > **Takeaway**: In the near term, AI looks more like a **broad productivity booster** and **task reshuffler** than a universal job destroyer.  Over time, transitions could be large—and uneven.
 
@@ -107,7 +107,7 @@ AI will **take parts of many jobs** and **create parts of new jobs**. Some roles
 
 ---
 
-References & further reading
+## References & further reading
 
 - **WEF – Future of Jobs Report 2025** (summary & figures; jobs created/displaced, skills): https://www.weforum.org/stories/2025/01/future-of-jobs-report-2025-jobs-of-the-future-and-the-skills-you-need-to-get-them/  
 - **IMF (Kristalina Georgieva) – “AI Will Transform the Global Economy”** (40% of jobs exposed; policy framing): https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity  
